@@ -4,7 +4,7 @@
 tested on Ubuntu。
 # How to use
 将工具和脚本放在同一目录下，如以下格式。   
-<img width="145" alt="截屏2021-09-03 下午4 10 43" src="https://user-images.githubusercontent.com/78467376/131973130-98a81afe-f44e-4ee4-9b8f-46530131ee96.png">
+<img width="404" alt="1" src="https://user-images.githubusercontent.com/78467376/131973396-77e8cae1-cd06-47ca-9d4f-91e2c0edf20c.png">
 
 只需要执行 ./run.sh +domain 即可.  
 ⚠️ 使用之前，请先下载好系统对应的两个文件，注意别下载错了
