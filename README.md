@@ -8,7 +8,7 @@
 
 只需要执行 ./run.sh +domain 即可.  
 ⚠️ 使用之前，请先下载好系统对应的两个文件，注意别下载错了。   
-怕下错的可以直接下realse，直接食用。   
+怕下错的可以直接下Releases，直接食用。   
 tested on Ubuntu。
 # Download
 https://github.com/broken5/bscan    
